@@ -37,7 +37,7 @@ import streamlit as st
 # model = pickle.load(open('model.pkl', 'rb'))
 
 # create title
-st.title('Welcome to our site.\n enter the message below to ensure if its a legit(ham) or a spam you recieved \n Predicting if message is spam or not ')
+st.title('Welcome to our site.\n enter the message below to ensure if its a legit(ham) or a spam you recieved.')
 
 message = st.text_input('Enter a message')
 
