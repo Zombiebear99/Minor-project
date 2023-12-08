@@ -3,10 +3,10 @@
 #!pip install -U sklearn
 #!pip install -U scikit-learn
 
-pip install -U scikit-learn scipy matplotlib
+pip Install -U scikit-learn scipy matplotlib
 
 #install('sklearn')
-install('scikit-learn')
+#install('scikit-learn')
 
 # you can run your app with: streamlit run app.py
 
