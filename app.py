@@ -3,11 +3,7 @@
 #!pip install -U sklearn
 #!pip install -U scikit-learn
 
-import subprocess
-import sys
-
-def install(package):
-    subprocess.check_call([sys.executable, "-U", "pip", "install", package])
+pip install -U scikit-learn scipy matplotlib
 
 #install('sklearn')
 install('scikit-learn')
