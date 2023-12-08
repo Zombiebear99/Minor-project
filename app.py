@@ -7,7 +7,7 @@ import subprocess
 import sys
 
 def install(package):
-    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+    subprocess.check_call([sys.executable, "-U", "pip", "install", package])
 
 #install('sklearn')
 install('scikit-learn')
