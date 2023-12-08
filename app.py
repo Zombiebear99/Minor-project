@@ -53,6 +53,4 @@ if submit:
         st.warning('This message is spam')
     else:
         st.success('This message is Legit (HAM)')
-
-
-st.balloons()
+        st.balloons()
