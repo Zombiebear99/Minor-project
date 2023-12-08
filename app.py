@@ -5,7 +5,6 @@
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 
 df  = pd.read_csv('https://raw.githubusercontent.com/laxmimerit/All-CSV-ML-Data-Files-Download/master/spam.tsv', sep='\t')
 
