@@ -9,7 +9,7 @@ import sys
 def install(package):
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
-install('sklearn')
+#install('sklearn')
 install('scikit-learn')
 
 # you can run your app with: streamlit run app.py
