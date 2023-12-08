@@ -1,5 +1,7 @@
 # pip install -U streamlit
 # pip install -U plotly
+pip install sklearn
+pip install scikit-learn
 
 # you can run your app with: streamlit run app.py
 
