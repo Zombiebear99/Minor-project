@@ -3,7 +3,7 @@
 #!pip install -U sklearn
 #!pip install -U scikit-learn
 
-pip Install -U scikit-learn scipy matplotlib
+pip install -U scikit-learn
 
 #install('sklearn')
 #install('scikit-learn')
